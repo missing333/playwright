@@ -1,0 +1,39 @@
+{
+    "workbench.colorCustomizations": {
+        "[Monokai]": {         
+            "editor.lineHighlightBackground": "#aaafa913",
+
+            "editor.selectionBackground": "#00ff2ac0",
+            // "editor.selectionHighlightBorder": "#00ff2a3d",
+            "editor.selectionHighlightBackground": "#00ff2a21",
+
+            "editor.wordHighlightTextBackground": "#00000000",
+            "editor.wordHighlightBackground": "#c700c728",
+            "editor.wordHighlightStrongBackground": "#ff000040",
+            
+            "editor.findMatchBackground": "#e70dc38c",
+            "editor.findMatchHighlightBackground": "#4d4d4d2a",
+            "editor.findMatchHighlightBorder": "#e70dc38c",
+            "editor.rangeHighlightBackground": "#aaafa913",   
+        },
+
+        "[Default Dark+]": {
+            "editor.lineHighlightBackground": "#aaafa913",
+
+            "editor.selectionBackground": "#00ff2ac0",
+            // "editor.selectionHighlightBorder": "#00ff2a3d",
+            "editor.selectionHighlightBackground": "#00ff2a21",
+
+            "editor.wordHighlightTextBackground": "#00000000",
+            "editor.wordHighlightBackground": "#c700c728",
+            "editor.wordHighlightStrongBackground": "#ff000040",
+            
+            "editor.findMatchBackground": "#e70dc38c",
+            "editor.findMatchHighlightBackground": "#4d4d4d2a",
+            "editor.findMatchHighlightBorder": "#e70dc38c",
+            "editor.rangeHighlightBackground": "#aaafa913",
+            
+        }
+
+    }
+}
